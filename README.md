@@ -1,1 +1,7 @@
-# Firovm_investigate_truffle
+# To test contract
+
+
+```bash
+truffle test
+```
+
